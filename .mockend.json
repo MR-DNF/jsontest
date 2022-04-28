@@ -1,10 +1,14 @@
 {
   "NFT": {
     "name": {
-      "string": ["DAGNodeFinance NFT"]
+      "string": [
+        "DAGNodeFinance NFT"
+      ]
     },
     "description": {
-      "string": ["NFT as proof of ownership of $DAG"]
+      "string": [
+        "NFT as proof of ownership of $DAG"
+      ]
     },
     "image": {
       "regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}"
